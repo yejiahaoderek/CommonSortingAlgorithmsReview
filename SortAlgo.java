@@ -47,7 +47,7 @@ public class SortAlgo{
         return i - 1;
     }
 
-    // Time Complexity
+
     public void mergeSort(int[] arr, int size){
         if (size == 1)
             return;
